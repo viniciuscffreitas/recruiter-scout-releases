@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "geminiApiKey": "",
+  "serperApiKey": "",
+  "linkedinLiAt": "",
+  "telemetryWebhookUrl": "",
+  "announcement": ""
+}
